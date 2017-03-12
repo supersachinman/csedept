@@ -1,0 +1,89 @@
+body{
+	background-color: #e2e2e2;
+}
+
+.header{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.header img{
+	width: 90px;
+	height: 90px;
+	margin-top: -50px;
+}
+
+.Univ{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.main{
+	background-color: #ffffff;
+	border-radius: 8px;
+	padding: 8px;
+}
+
+.navbar{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 17px;
+}
+
+.slide{
+	border-radius: 8px;
+}
+
+.carousel-inner>.item>img{
+	width: 100%;
+	height: 450px;
+	margin: auto;
+	border-radius: 8px;
+}
+
+.au{
+	background-color: #333;
+	color: #ffffff;
+	margin-top: 25px;
+	padding-left: 10px;
+	height: 35px;
+	border-radius: 5px;
+}
+
+.au h4{
+	position: absolute;
+	font-family: 'PT Sans', sans-serif;
+}
+
+#general{
+	margin-top: 20px;
+	margin-left: 8px;
+	/*border: 1px solid #333;
+	padding: 5px;
+	border-radius: 5px;*/
+}
+
+.notice-board table{
+	margin-bottom: 10px; 
+}
+
+.notice-board a{
+	font-size: 16px;
+}
+
+.notice-board p{
+	font-size: 12px;
+}
+
+.quick-links{
+	background-color: #333;
+	color: #ffffff;
+	margin-top: 65px;
+	padding-left: 10px;
+	height: 35px;
+	border-radius: 5px;
+}
+
+.quick-links h4{
+	position: absolute;
+	font-family: 'PT Sans', sans-serif;
+}
